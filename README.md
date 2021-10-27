@@ -1,2 +1,2 @@
 # Smart-watch
-I try to use the github
+This file can help you to understand how to use.
